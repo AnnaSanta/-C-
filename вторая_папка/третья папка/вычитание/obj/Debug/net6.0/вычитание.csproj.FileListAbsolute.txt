@@ -1,0 +1,15 @@
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\bin\Debug\net6.0\вычитание.exe
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\bin\Debug\net6.0\вычитание.deps.json
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\bin\Debug\net6.0\вычитание.runtimeconfig.json
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\bin\Debug\net6.0\вычитание.dll
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\bin\Debug\net6.0\вычитание.pdb
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.AssemblyInfo.cs
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.dll
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\refint\вычитание.dll
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.pdb
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\вычитание.genruntimeconfig.cache
+C:\Users\Анна\Desktop\задача\вторая_папка\третья папка\вычитание\obj\Debug\net6.0\ref\вычитание.dll
